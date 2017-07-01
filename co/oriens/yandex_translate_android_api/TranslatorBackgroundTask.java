@@ -1,4 +1,4 @@
-package co.oriens.langboard;
+package co.oriens.yandex_translate_android_api;
 
 import android.content.Context;
 import android.os.AsyncTask;
